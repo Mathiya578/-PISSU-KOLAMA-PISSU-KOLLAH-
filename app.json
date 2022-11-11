@@ -1,7 +1,7 @@
 {
-  "name": "Zim Bot Inc",
+  "name": "HIRU&SOHAN Inc",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/zim-bot/zimbot-v2",
+  "repository": "https://github.com/Mathiya578/HIRU-BABA-AND-SOHAN-WABOT",
   "logo": "",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
