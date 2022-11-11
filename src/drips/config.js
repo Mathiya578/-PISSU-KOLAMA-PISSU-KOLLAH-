@@ -37,12 +37,12 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['27634090203','447441437150']
-global.premium = ['27634090203','447441437150']
-global.botname = 'ZIM BOT INC'
-global.ownername ='DRIPS'
-global.packname = 'ZIM BOT INC'
-global.quoted = 'https://www.youtube.com/c/DRIPSOFC'
+global.owner = ['94779499811','94757962326']
+global.premium = ['94779499811','94757962326']
+global.botname = 'HIRU&SOHAN INC'
+global.ownername ='HIRU AND SOHAN'
+global.packname = 'HIRU&SOHAN INC'
+global.quoted = 'https://www.youtube.com/c/ROROPSOFC'
 global.monayawal = '100000'
 global.darahawal = '100'
 global.besiAwal = '15'
@@ -71,7 +71,7 @@ global.mess = {
     group: '*this feature is only for groups okay*',
     private: '*this feature can only used in dm okay*',
     bot: '*Special Features for User Bot Number okay*',
-    wait: '*whoa wait zim bot processing okay*',
+    wait: '*whoa wait HIRU&SOHAN bot processing okay*',
     endLimit: '*Brothers Daily Limit Has Expired, Type .buy limit amount limit to buy limit, Note: Limit will be reset every 12 hours*',
 }
 global.limitawal = {
